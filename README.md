@@ -2,12 +2,12 @@
 ![cashflow preview](cashflow.jpg)
 
 <p align="center">
-  <strong>Cryptocurrency Live Monitor & Analyzer – Cyberpunk Neon Edition</strong><br>
-  <em>"Real-time market intelligence, wrapped in neon." – Mr.X</em>
+  <strong>Cryptocurrency Live Monitor & Analyzer â€“ Cyberpunk Neon Edition</strong><br>
+  <em>"Real-time market intelligence, wrapped in neon." â€“ Mr.X</em>
 </p>
 
 ## Introduction
-CASHFLOW is a powerful terminal-based cryptocurrency monitoring and analysis tool. With a sleek cyberpunk neon interface, it provides real-time price data, market insights, fiat currency rates, and a suite of analytical tools—all in one place. Built with Python and the Rich library, CASHFLOW runs smoothly on **Termux (Android)**, Linux, Windows, and Kali Linux—**no root required**. Data is powered by **CoinGecko API** and **Open Exchange Rates**.
+CASHFLOW is a powerful terminal-based cryptocurrency monitoring and analysis tool. With a sleek cyberpunk neon interface, it provides real-time price data, market insights, fiat currency rates, and a suite of analytical toolsâ€”all in one place. Built with Python and the Rich library, CASHFLOW runs smoothly on **Termux (Android)**, Linux, Windows, and Kali Linuxâ€”**no root required**. Data is powered by **CoinGecko API** and **Open Exchange Rates**.
 
 ## Installation
 ```bash
@@ -25,18 +25,18 @@ $ python3 cashflow.py
 ```
 
 ## Features
-- **Live Cryptocurrency Monitor** – Multi-currency prices, market cap, volume, sparklines.
-- **Live Fiat Currency Rates** – Track exchange rates for 40+ fiat currencies.
-- **Coin Graph Monitor** – Visual ASCII graphs for selected coins.
-- **Detailed Coin Analysis** – In-depth metrics: ATH, ATL, supply, description, categories.
-- **Compare Coins** – Side-by-side comparison of multiple cryptocurrencies.
-- **Global Market Analysis** – Total market cap, volume, dominance, top gainers/losers.
-- **Search & Analyze** – Search for any coin and instantly view details.
-- **Fiat Currency Converter** – Convert between fiat currencies with live rates.
-- **Tips & Tricks** – Curated tips for security, trading, investing, and mining.
-- **Command-line Arguments** – Customize coins, currencies, refresh interval, and more.
-- **Cyberpunk UI** – Neon colors, live tables, progress bars, and smooth animations.
-- **Termux Optimized** – Works flawlessly on Android without root.
+- **Live Cryptocurrency Monitor** â€“ Multi-currency prices, market cap, volume, sparklines.
+- **Live Fiat Currency Rates** â€“ Track exchange rates for 40+ fiat currencies.
+- **Coin Graph Monitor** â€“ Visual ASCII graphs for selected coins.
+- **Detailed Coin Analysis** â€“ In-depth metrics: ATH, ATL, supply, description, categories.
+- **Compare Coins** â€“ Side-by-side comparison of multiple cryptocurrencies.
+- **Global Market Analysis** â€“ Total market cap, volume, dominance, top gainers/losers.
+- **Search & Analyze** â€“ Search for any coin and instantly view details.
+- **Fiat Currency Converter** â€“ Convert between fiat currencies with live rates.
+- **Tips & Tricks** â€“ Curated tips for security, trading, investing, and mining.
+- **Command-line Arguments** â€“ Customize coins, currencies, refresh interval, and more.
+- **Cyberpunk UI** â€“ Neon colors, live tables, progress bars, and smooth animations.
+- **Termux Optimized** â€“ Works flawlessly on Android without root.
 
 ## Menu Options
 | #  | Option | Description |
@@ -80,13 +80,13 @@ This tool is intended for **educational and informational purposes only**. Crypt
 
 ## CONNECT WITH ME :
 
-[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrx.pages.dev)
-[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com)
-[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X)
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com)
+[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=googlechrome)](https://whomrx.pages.dev) <br>
+[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com) <br>
+[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666) <br>
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X) <br>
+[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666) <br>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X) <br>
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com) <br>
 [![TikTok](https://img.shields.io/badge/TIKTOK-FOLLOW-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@whomr.x)
 
 **If you want to donate, click on the button**
