@@ -59,11 +59,11 @@ $ python3 cashflow.py
 2. **Run** `python3 cashflow.py` after installation.
 3. **Navigate** the main menu by typing the option number and pressing Enter.
 4. **In live monitors**:
-   - `Enter` / `n`  next page
-   - `p`  previous page
-   - `q`  return to menu
-   - `x`  exit program
-   - `Ctrl+C`  interrupt and return
+   - `Enter` / `n` next page
+   - `p` previous page
+   - `q` return to menu
+   - `x` exit program
+   - `Ctrl+C` interrupt and return
 5. **Command-line mode** (optional):  
    ```bash
    python3 cashflow.py --coins bitcoin,ethereum --currencies usd,idr --interval 15
